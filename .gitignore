@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# add ignored files
+Library
+Temp
+*.pidb
+*.sln
+*.unityproj
+*.userprefs
